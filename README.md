@@ -2,7 +2,7 @@
 
 A Java-based console application implementing a Student Management System. This project demonstrates the usage of the Data Access Object (DAO) pattern, JDBC for database connectivity, and clean architectural design separated into distinct executable layers.
 
-## 🛠️ Tech Stack & Prerequisites
+##  Tech Stack & Prerequisites
 
 *   **Java Development Kit (JDK):** Version 8 or higher
 *   **Build Tool:** Apache Maven
@@ -10,7 +10,7 @@ A Java-based console application implementing a Student Management System. This 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 The project follows a standard Maven directory structure layout:
 
